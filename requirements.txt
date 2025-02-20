@@ -1,0 +1,9 @@
+langchain
+langsmith
+langchain_community
+langchain-text-splitters
+langchain-google-genai
+pinecone-client
+langchain-pinecone>=0.2.0
+python-dotenv
+pypdf
